@@ -56,6 +56,24 @@ Right now, I’m building an open portfolio of data-driven projects that reflect
 
 ---
 
+### 📈 My Journey into Data Analytics
+
+My path began in a Computer-Assisted Telephone Interviewing (CATI) lab, where I managed a team of interviewers and helped design a dataset used to uncover insights into sleep patterns among retail food workers.  
+([repository and published study coming soon])
+
+Soon after, I became the lead research associate on several state-sponsored projects focused on long-term services and supports for older adults and people with disabilities. These early career experiences grounded me in the full research lifecycle—from data collection and cleaning to advanced analysis and stakeholder communication.  
+([repository and published study coming soon])
+
+During this period, I developed strong skills in:
+- Data collection, cleaning, and management
+- Statistical analysis and report writing
+- Team science and interdisciplinary collaboration
+- Communicating results to stakeholders and non-technical audiences
+
+I also became proficient in tools like **Excel** and **SPSS**
+
+---
+
 ### 📬 Connect
 
 - 📧 Email: bardoar@gmail.com
