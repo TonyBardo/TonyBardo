@@ -2,10 +2,10 @@
   <img src="https://github.com/tonybardo/tonybardo/blob/main/data_background.jpg" width="100%" height="200" alt="Data Background" />
 </p>
 
-<h1 align="center">Hi, I'm Tony Bardo 👋</h1>
+<h1 align="center">Tony Bardo</h1>
 
 <p align="center">
-  Assistant Professor • Quantitative Sociologist • Public Health Researcher
+  Assistant Professor • Department of Sociology • University of Kentucky
 </p>
 
 <p align="center">
