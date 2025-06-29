@@ -5,13 +5,17 @@
 <h1 align="center">Tony Bardo</h1>
 
 <p align="center">
-  Assistant Professor • Department of Sociology • University of Kentucky
-</p>
-
-<p align="center">
-  <a href="https://github.com/tonybardo"><img src="https://img.shields.io/github/followers/tonybardo?label=GitHub&style=social" /></a>
-  <a href="https://www.linkedin.com/in/tonybardo"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" /></a>
-  <a href="#"><img src="https://visitor-badge.laobi.icu/badge?page_id=tonybardo.tonybardo" /></a>
+  <a href="https://github.com/tonybardo">
+    <img src="https://img.shields.io/github/followers/tonybardo?label=GitHub&style=social" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://scholar.google.com/citations?user=JzoBYdcAAAAJ&hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=googlescholar" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="#">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=tonybardo.tonybardo" />
+  </a>
 </p>
 
 ---
