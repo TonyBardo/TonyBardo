@@ -61,7 +61,7 @@ Right now, I’m building an open portfolio of data-driven projects that reflect
 My path began in a Computer-Assisted Telephone Interviewing (CATI) lab, where I managed a team of interviewers and helped design a dataset used to uncover insights into sleep patterns among retail food workers.  
 ([repository and published study coming soon])
 
-Soon after, I became the lead research associate on several state-sponsored projects focused on long-term services and supports for older adults and people with disabilities. These early career experiences grounded me in the full research lifecycle—from data collection and cleaning to advanced analysis and stakeholder communication.  
+Soon after, I became the lead research associate on several state-sponsored projects focused on long-term services and supports for older adults and people with disabilities. These early career experiences grounded me in the full research lifecycle, from data collection and cleaning to advanced analysis and stakeholder communication.  
 ([repository and published study coming soon])
 
 During this period, I developed strong skills in:
@@ -70,7 +70,11 @@ During this period, I developed strong skills in:
 - Team science and interdisciplinary collaboration
 - Communicating results to stakeholders and non-technical audiences
 
-I also became proficient in tools like **Excel** and **SPSS**
+I took on increasling technial roles, working with large public datasets such as BRFSS, GSS, HRS, and MIDUS. Wrangling these complex data sources and wcollaborating with interdisciplinary teams required me to become proficient in tools like  **Excel**, **R**, **SAS**, **SPSS**, and **Stata**. 
+
+One of my recent interdisciplinary projects involved designing a novel evaluation framework for an intervention study using customized social network analysis([repository and published study coming soon]). 
+
+As I transition from academia into data science and analytics, I’m building an open portfolio to demonstrate how my quantitative expertise translates into actionable, business-relevant insights. These ongoing projects involve applying my technical skillset using tools like **SQL**, **PowerBI**, **Python**, and **Tableau**. While the tools of the trade are vast, my core strengths in analytical thinking, statistical modeling, and research design position me well to tackle a wide range of data-driven challenges.
 
 ---
 
