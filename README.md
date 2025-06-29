@@ -22,11 +22,16 @@
 
 ### 🔬 About Me
 
-I'm a data-driven sociologist working at the intersection of **aging**, **health**, and **inequality**. I use large-scale survey data (like BRFSS and HRS) and statistical modeling to uncover insights that inform public health policy and social intervention.
+I am currently an Assistant Professor in Sociology making an exciting leap from academia into the world of data science and analytics.
 
-- 🔢 Expert in multivariate regression, GLMs, survey design
-- 📊 Passionate about making complex data accessible through **clear visuals**
-- 🎓 Research published in *Gender & Society*, *Journals of Gerontology*, *Social Indicators Research*
+With over a decade of experience designing and analyzing complex research studies, I specialize in transforming data into meaningful insights. My expertise lies in statistical modeling, data visualization, and crafting compelling narratives that make complexity feel intuitive.
+
+🔍 I’m especially passionate about:
+- Making sense of messy data with clarity and purpose  
+- Designing thoughtful research that leads to actionable insight  
+- Bridging technical rigor with accessible storytelling  
+
+Right now, I’m building an open portfolio of data-driven projects that reflect both my academic foundation and applied analytical skills.
 
 ---
 
@@ -53,5 +58,4 @@ I'm a data-driven sociologist working at the intersection of **aging**, **health
 
 ### 📬 Connect
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/tonybardo)
-- 📧 Email: your.email@domain.com *(optional or obfuscate for spam)*
+- 📧 Email: bardoar@gmail.com
