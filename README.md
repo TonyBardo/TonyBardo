@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/tonybardo/tonybardo/blob/main/profile-pic.jpg" width="160" alt="Tony Bardo" />
+  <img src="https://github.com/tonybardo/tonybardo/blob/main/data_background.jpg" width="100%" height="200" alt="Data Background" />
 </p>
 
 <h1 align="center">Hi, I'm Tony Bardo 👋</h1>
