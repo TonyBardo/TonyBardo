@@ -29,7 +29,7 @@ After more than a decade in academia, I'm transitioning to industry with a focus
 - Designing rigorous analyses that yield practical value
 - Bridging technical precision with clear, compelling communication
 
-I'm currently building an open portfolio that showcases how my academic foundation translates into applied data science.
+I'm currently building an open portfolio that showcases how my academic foundation translates into industry.
 
 ---
 
@@ -38,7 +38,7 @@ I'm currently building an open portfolio that showcases how my academic foundati
 <table>
   <tr>
     <td>
-      <h3>🧰 Tools I Know Well</h3>
+      <h3>🧰 I Know Well</h3>
       <p>
         <img src="https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white" />
         <img src="https://img.shields.io/badge/-Stata-1a73e8?logo=data:image/svg+xml;base64,...&label=Stata" />
@@ -48,7 +48,7 @@ I'm currently building an open portfolio that showcases how my academic foundati
       </p>
     </td>
     <td>
-      <h3>🚧 Tools I’m Actively Learning</h3>
+      <h3>🚧 Actively Learning</h3>
       <p>
         <img src="https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
