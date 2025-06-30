@@ -29,32 +29,31 @@ After more than a decade in [academia](https://github.com/TonyBardo/TonyBardo/bl
 - Designing rigorous analyses that yield practical value
 - Bridging technical precision with clear compelling communication
 
-I'm currently building an open portfolio to showcase how my academic foundation translates into industry by leveraging 🛠 tools like:
+I'm currently building an open portfolio to showcase how my academic foundation translates into industry by leveraging 🛠
 
-<div align="center">
-  <div style="float: left; width: 45%; text-align: left;">
-    <h3>🧰 I Know Well</h3>
-    <p>
-      <img src="https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Stata-1a73e8?logo=data:image/svg+xml;base64,...&label=Stata" />
-      <img src="https://img.shields.io/badge/-SAS-007ACC?logo=sas&logoColor=white" />
-      <img src="https://img.shields.io/badge/-SPSS-FF6F61?logo=ibm&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white" />
-    </p>
-  </div>
-
-  <div style="float: right; width: 45%; text-align: left;">
-    <h3>🚧 Actively Learning</h3>
-    <p>
-      <img src="https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black" />
-    </p>
-  </div>
-
-  <div style="clear: both;"></div>
-</div>
+<table>
+  <tr>
+    <td>
+      <p>
+        <img src="https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Stata-1a73e8?logo=data:image/svg+xml;base64,...&label=Stata" />
+        <img src="https://img.shields.io/badge/-SAS-007ACC?logo=sas&logoColor=white" />
+        <img src="https://img.shields.io/badge/-SPSS-FF6F61?logo=ibm&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white" />
+         <h3>🧰 I know well</h3>
+      </p>
+    </td>
+    <td>
+      <p>
+        <img src="https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black" />
+        <h3>🚧 I’m actively learning</h3>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
