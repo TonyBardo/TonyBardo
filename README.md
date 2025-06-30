@@ -59,11 +59,9 @@ I'm currently building an open portfolio to showcase how my academic foundation 
 
 ### 📈 My Journey into Data Analytics
 
-My path began in a Computer-Assisted Telephone Interviewing (CATI) lab, where I managed a team of interviewers and helped design a dataset used to uncover insights into sleep patterns among retail food workers.  
-([repository and published study coming soon])
+My passion for data began in 2007 when I took a **team management** role in a Computer-Assisted Telephone Interviewing (CATI) lab collecting survey data to analyze sleep patterns among retail food workers.
 
-Soon after, I became the lead research associate on several state-sponsored projects focused on long-term services and supports for older adults and people with disabilities. These early career experiences grounded me in the full research lifecycle, from data collection and cleaning to advanced analysis and stakeholder communication.  
-([repository and published study coming soon])
+This experience laid my foundation for **building end-to-end data pipelines** from raw data collection and **quality assurance** to data cleaning, transformation, and reporting. I developed a keen understanding of how to ensure **data integrity** and translate messy [human-reported inputs](https://github.com/TonyBardo/TonyBardo/blob/main/papers/2_Maume_Gender_Sleep_G%26S_2010.pdf) into structured insights that [inform real-world decisions](https://github.com/TonyBardo/TonyBardo/blob/main/papers/1_Maume_Gender_Sleep_ASR_2009.pdf).
 
 During this period, I developed strong skills in:
 - Data collection, cleaning, and management
