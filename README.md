@@ -22,22 +22,18 @@
 
 ### 🔬 About Me
 
-After more than a decade in [academia](https://github.com/TonyBardo/TonyBardo/blob/main/academic_cv.pdf), I'm transitioning to industry with a focus on transforming complex data into clear, actionable insights. My background blends deep expertise in statistical modeling with a talent for storytelling—making data not just understandable, but meaningful.
+After more than a decade in [academia](https://github.com/TonyBardo/TonyBardo/blob/main/academic_cv.pdf), I'm transitioning to industry with a focus on transforming complex data into actionable insights. My background blends expertise in statistical modeling with a talent for storytelling that makes data understandable and meaningful.
 
 🔍 I’m especially passionate about:
-- Wrangling messy, real-world data to uncover patterns and drive decisions
+- Wrangling messy real-world data to uncover patterns and drive decisions
 - Designing rigorous analyses that yield practical value
-- Bridging technical precision with clear, compelling communication
+- Bridging technical precision with clear compelling communication
 
-I'm currently building an open portfolio that showcases how my academic foundation translates into industry.
+I'm currently building an open portfolio to showcase how my academic foundation translates into industry by leveraging 🛠 tools like:
 
----
-
-### 🛠 Tech & Tools
-
-<table>
+<table style="border: none">
   <tr>
-    <td>
+    <td style="border: none; vertical-align: top; padding-right: 20px">
       <h3>🧰 I Know Well</h3>
       <p>
         <img src="https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white" />
@@ -47,7 +43,7 @@ I'm currently building an open portfolio that showcases how my academic foundati
         <img src="https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white" />
       </p>
     </td>
-    <td>
+    <td style="border: none; vertical-align: top">
       <h3>🚧 Actively Learning</h3>
       <p>
         <img src="https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white" />
