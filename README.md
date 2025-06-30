@@ -74,20 +74,9 @@ To extract further value from structured data I apply a range of **statisical mo
 
 I am especially skilled at at **translating statstical results** into clear actionable insights, whether through visualizations, executive summaries, written reports or live presentations. I've taught quantitative methods (examples of my course materials forthcoming), presented findings at national and international conferences, and worked extensively on **interdisciplinary teams**. These experences have made me adept at communicating with both technical and non-technical audiences, which has also led to coverage in popular media outlets where I brought key findings from my data-driven work to the broader public:[<sup>16</sup>](https://kffhealthnews.org/news/now-more-of-us-can-count-on-more-time-dodging-the-dementia-bullet/), [<sup>17</sup>](https://www.prb.org/resources/happily-ever-after-research-offers-clues-on-what-shapes-happiness-and-life-satisfaction-after-age-65/), [<sup>18</sup>](https://www.niussp.org/health-and-mortality/racial-disparities-in-disability-and-in-long-and-happy-living-in-america/).
 
+As I transition from academia into industry, I’m building an open portfolio to show how my quantitative expertise translates into business-relevant insights. While the tools may differ—R, Stata, SAS, and SPSS in academia; SQL, Python, Power BI, and Tableau in business—the underlying logic of data wrangling, statistical modeling, and insight generation remains the same. My ongoing projects bridge this gap, applying my established skillset to tools that are more common in industry.
 
-📄 [2014 – Domain Satisfaction Study](https://github.com/TonyBardo/TonyBardo/raw/main/papers/7_Bardo_DomSat_SIR_2014.pdf)  
-
-During this period, I developed strong skills in:
-- Data collection, cleaning, and management
-- Statistical analysis and report writing
-- Team science and interdisciplinary collaboration
-- Communicating results to stakeholders and non-technical audiences
-
-I took on increasling technial roles, working with large public datasets such as BRFSS, GSS, HRS, and MIDUS. Wrangling these complex data sources and wcollaborating with interdisciplinary teams required me to become proficient in tools like  **Excel**, **R**, **SAS**, **SPSS**, and **Stata**. 
-
-One of my recent interdisciplinary projects involved designing a novel evaluation framework for an intervention study using customized social network analysis([repository and published study coming soon]). 
-
-As I transition from academia into data science and analytics, I’m building an open portfolio to demonstrate how my quantitative expertise translates into actionable, business-relevant insights. These ongoing projects involve applying my technical skillset using tools like **SQL**, **PowerBI**, **Python**, and **Tableau**. While the tools of the trade are vast, my core strengths in analytical thinking, statistical modeling, and research design position me well to tackle a wide range of data-driven challenges.
+Ultimately, the 🛠 tools are only as 💪 powerful as the 🧑‍💻 person using them. My foundation in analytical thinking, research design, and evidence-based storytelling equips me to tackle data challenges across contexts regardless of the software.
 
 ---
 
