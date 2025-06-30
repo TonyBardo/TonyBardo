@@ -22,7 +22,7 @@
 
 ### 🔬 About Me
 
-After more than a decade in academia, I'm transitioning to industry with a focus on transforming complex data into clear, actionable insights. My background blends deep expertise in statistical modeling with a talent for storytelling—making data not just understandable, but meaningful.
+After more than a decade in [academia](https://github.com/TonyBardo/TonyBardo/blob/main/academic_cv.pdf), I'm transitioning to industry with a focus on transforming complex data into clear, actionable insights. My background blends deep expertise in statistical modeling with a talent for storytelling—making data not just understandable, but meaningful.
 
 🔍 I’m especially passionate about:
 - Wrangling messy, real-world data to uncover patterns and drive decisions
