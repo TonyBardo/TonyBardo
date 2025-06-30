@@ -22,37 +22,42 @@
 
 ### 🔬 About Me
 
-I am currently an Assistant Professor in Sociology making an exciting leap from academia into the world of data science and analytics.
-
-With over a decade of experience designing and analyzing complex research studies, I specialize in transforming data into meaningful insights. My expertise lies in statistical modeling, data visualization, and crafting compelling narratives that make complexity feel intuitive.
+After more than a decade in academia, I'm transitioning to industry with a focus on transforming complex data into clear, actionable insights. My background blends deep expertise in statistical modeling with a talent for storytelling—making data not just understandable, but meaningful.
 
 🔍 I’m especially passionate about:
-- Making sense of messy data with clarity and purpose  
-- Designing thoughtful research that leads to actionable insight  
-- Bridging technical rigor with accessible storytelling  
+- Wrangling messy, real-world data to uncover patterns and drive decisions
+- Designing rigorous analyses that yield practical value
+- Bridging technical precision with clear, compelling communication
 
-Right now, I’m building an open portfolio of data-driven projects that reflect both my academic foundation and applied analytical skills.
-
----
-
-### 📈 Projects
-
-🚀 **[US Health Profile (BRFSS 2021–2023)](https://github.com/tonybardo/brfss-etl)**
-- R + Tableau project visualizing chronic conditions across SES and geography
-- Includes ETL pipeline, harmonized layout files, and interactive dashboards
-
-🧪 *(More coming soon)*
+I'm currently building an open portfolio that showcases how my academic foundation translates into applied data science.
 
 ---
 
 ### 🛠 Tech & Tools
 
-![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
-![STATA](https://img.shields.io/badge/-Stata-1a73e8?logo=data:image/svg+xml;base64,...&label=STATA)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
-![SAS](https://img.shields.io/badge/-SAS-007ACC?logo=sas&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
+<table>
+  <tr>
+    <td>
+      <h3>🧰 Tools I Know Well</h3>
+      <p>
+        <img src="https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Stata-1a73e8?logo=data:image/svg+xml;base64,...&label=Stata" />
+        <img src="https://img.shields.io/badge/-SAS-007ACC?logo=sas&logoColor=white" />
+        <img src="https://img.shields.io/badge/-SPSS-FF6F61?logo=ibm&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white" />
+      </p>
+    </td>
+    <td>
+      <h3>🚧 Tools I’m Actively Learning</h3>
+      <p>
+        <img src="https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -78,6 +83,15 @@ As I transition from academia into data science and analytics, I’m building an
 
 ---
 
+### 📈 Projects
+
+🚀 **[US Health Profile (BRFSS 2021–2023)](https://github.com/tonybardo/brfss-etl)**
+- R + Tableau project visualizing chronic conditions across SES and geography
+- Includes ETL pipeline, harmonized layout files, and interactive dashboards
+
+🧪 *(More coming soon)*
+
+---
 ### 📬 Connect
 
 - 📧 Email: bardoar@gmail.com
