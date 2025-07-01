@@ -22,14 +22,14 @@
 
 ### 🔬 About Me
 
-After more than a decade in [academia](https://github.com/TonyBardo/TonyBardo/blob/main/academic_cv.pdf), I'm transitioning to industry with a focus on transforming complex data into actionable insights. My background blends expertise in statistical modeling with a talent for storytelling that makes data understandable and meaningful.
+After more than a decade in academia, I'm transitioning to industry with a focus on turning complex data into actionable insights. My background combines expertise in statistical modeling with a talent for storytelling that makes data understandable and meaningful.
 
 🔍 I’m especially passionate about:
 - Wrangling messy real-world data to uncover patterns and drive decisions
 - Designing rigorous analyses that yield practical value
 - Bridging technical precision with clear compelling communication
 
-I'm currently building an open portfolio to showcase how my academic foundation translates into industry by leveraging 🛠
+I'm currently building a portfolio to show how my expertise translate into real-world problem solving using industry-standard tools 🛠
 
 <table>
   <tr>
@@ -55,27 +55,28 @@ I'm currently building an open portfolio to showcase how my academic foundation 
   </tr>
 </table>
 
+While the tools may differ between academia and industry, the core logic of data wrangling, modeling, and insight generation are the same.
+
 ---
 
 ### 📈 My Data Analytics Journey
 
-My passion for data began when I took on a **team management** role collecting survey data. This experience laid my foundation for building **end-to-end data pipelines** from raw data collection and cleaning to transformation and reporting. I developed a strong understanding of **data integrity** and how to translate messy human-reported inputs into structured decision-ready insights[<sup>1</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/2_Maume_Gender_Sleep_G%26S_2010.pdf), [<sup>2</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/1_Maume_Gender_Sleep_ASR_2009.pdf).
+My passion for data began in 2007 when I took on a **team management** role collecting survey data among retail food workers. This taught me how to build **end-to-end data pipelines** from collection and transformation to reporting, and how to maintain **data integrity** when working with messy human-reported inputs.[<sup>1</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/2_Maume_Gender_Sleep_G%26S_2010.pdf)<sup>,</sup> [<sup>2</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/1_Maume_Gender_Sleep_ASR_2009.pdf) 
 
-I refined my ability to design and manage scalable **data workflows** working alongside government and industry partners [<sup>3</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/5_Applebaum_CareMngt_JGCM_2014.pdf), [<sup>4</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/R6_Mehdizadeh_OHCounty_2014.pdf), [<sup>5</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/R2_Mehdizadeh_PACE_tri_2009.pdf). My role involved delivering **forward-facing reports**[<sup>6</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/R4_Applebaum_TransitionsS_2011.pdf) that directly informed policy and operational decisions[<sup>7</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/R5_Applebaum_TransitionsL_2011.pdf). This work strengthened my ability to align data insights with **diverse stakeholders** aross sectors[<sup>8</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/6_Bardo_Transitions_JAG_2014.pdf), [<sup>9</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/C1b2_Applebaum_Global_2019.pdf).
+In my next roles, I partnered with government and industry in the long-term services and supports space,[<sup>3</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/5_Applebaum_CareMngt_JGCM_2014.pdf) delivering **forward-facing reports** that informed program strategy, operations, and policy.[<sup>4</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/R4_Applebaum_TransitionsS_2011.pdf)<sup>,</sup> [<sup>5</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/R5_Applebaum_TransitionsL_2011.pdf) These collaborations deepened my ability to design and manage **scalable data workflows**[<sup>6</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/R6_Mehdizadeh_OHCounty_2014.pdf), [<sup>7</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/R2_Mehdizadeh_PACE_tri_2009.pdf) and to communicate clearly with diverse technical and non-technical stakeholders across sectors.[<sup>8</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/6_Bardo_Transitions_JAG_2014.pdf)<sup>,</sup> [<sup>9</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/C1b2_Applebaum_Global_2019.pdf).
 
-Over time, I regularly **wrangled messy unstructured data**, including administrative records, surveys responses and qualitative interviews, into clean analyzable datasets. I am fluent in every step of **data preprocessing,** including extraction, recoding, merging, deduplication, and imputing missing values. To extract further value from structured data I've applied a range of **statistical modeling** techniques, including: 
+I'm fluent in every stage of **data preprocessing,** including extraction, recoding, merging, deduplication, and imputing missing values. I regularly **wrangled unstructured data**, including administrative records, surveys responses and qualitative interviews, into clean datasets that I've analyzed with a range of methods from exploratory descriptive summaries to advanced **statistical modeling,** including:
 - linear regression
 - generalized linear models (logit, logistic, hierarchical, Poisson and negative binomial)
 - survival/hazard models
 
-I specialized in quantifiable quality-of-life metrics[<sup>10</sup>]( https://link.springer.com/journal/11205), which are an equivalent to **key performance indicators (KPIs)**. I focused on how to measure[<sup>11</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/7_Bardo_DomSat_SIR_2014.pdf) and track[<sup>12</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/10_Bardo_Happy_APC_SPPS_2017.pdf) outcomes that matter most to people, organizations and systems[<sup>13</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/11_Bardo_HappyDomSat_ALCR_2017.pdf). My contributions led to invitations to support national statistical offices who rely on these indicators to assess global development goals [<sup>14</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/New-Frontiers-in-Subjective-Well-being-Measurement-4-March-2024-Agenda.pdf).
+My background in quantitative methods is extensive, evidenced in my published reports, methodological summaries, and teaching materials.
 
-Whether through visualizations, live presentations, executive summaries or full-length reports, I turn statistical results into clear actionable insights. I’m especially skilled at **communicating technical findings** to both expert and non-technical audiences.
-For example, I've taught quantitative methods (examples of my course materials forthcoming), worked extensively on interdisciplinary teams, and presented research at national and international conferences. My public-facing work has also been featured in major media outlets, where I translated research findings for general audiences:[<sup>15</sup>](https://kffhealthnews.org/news/now-more-of-us-can-count-on-more-time-dodging-the-dementia-bullet/), [<sup>16</sup>](https://www.prb.org/resources/happily-ever-after-research-offers-clues-on-what-shapes-happiness-and-life-satisfaction-after-age-65/), [<sup>17</sup>](https://www.niussp.org/health-and-mortality/racial-disparities-in-disability-and-in-long-and-happy-living-in-america/).
+Over time, I specialized in quantifiable quality-of-life metrics,[<sup>10</sup>]( https://link.springer.com/journal/11205) which are equivalent to **key performance indicators (KPIs)**. I focused on how to **measure and track**[<sup>11</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/7_Bardo_DomSat_SIR_2014.pdf)<sup>,</sup> [<sup>12</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/10_Bardo_Happy_APC_SPPS_2017.pdf) outcomes that matter most to people, organizations and systems[<sup>13</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/11_Bardo_HappyDomSat_ALCR_2017.pdf). My contributions led to invitations to support national statistical offices that rely on these indicators to assess global development goals. [<sup>14</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/New-Frontiers-in-Subjective-Well-being-Measurement-4-March-2024-Agenda.pdf)
 
-As I **transition from academia into industry**, I’m building an open portfolio to show how my quantitative expertise translates into business-relevant insights. While the software tools in academia may differ from those in industry, the underlying logic of data wrangling, modeling, and insight generation remains the same. My ongoing projects showcase how I’m applying these skills with software that is common in today’s business landscape.
+With frequent presentations at national and international conferences and dozens of written reports ([CV](https://github.com/TonyBardo/TonyBardo/blob/main/academic_cv.pdf)), I’m adept at **communicating technical findings**. My public-facing work has also been featured in major media outlets, where I translated research findings for general audiences.[<sup>15</sup>](https://kffhealthnews.org/news/now-more-of-us-can-count-on-more-time-dodging-the-dementia-bullet/), [<sup>16</sup>](https://www.prb.org/resources/happily-ever-after-research-offers-clues-on-what-shapes-happiness-and-life-satisfaction-after-age-65/), [<sup>17</sup>](https://www.niussp.org/health-and-mortality/racial-disparities-in-disability-and-in-long-and-happy-living-in-america/)
 
-Ultimately, the 🛠 tools are only as 💪 powerful as the 🧑‍💻 person using them. My foundation in analytical thinking, research design, and data storytelling equips me to solve complex problems regardless of the software.
+My foundation in analytical thinking, research design, and data storytelling equips me to solve complex problems regardless of the software. Ultimately, the 🛠 tools are only as 💪 powerful as the 🧑‍💻 person using them. 
 
 ---
 
