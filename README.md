@@ -71,14 +71,14 @@ Over time, I developed a specialization in quantifiable quality-of-life metrics,
 
 My public-facing work has been featured in major media outlets, where I translated research findings for general audiences.[<sup>15</sup>](https://kffhealthnews.org/news/now-more-of-us-can-count-on-more-time-dodging-the-dementia-bullet/), [<sup>16</sup>](https://www.prb.org/resources/happily-ever-after-research-offers-clues-on-what-shapes-happiness-and-life-satisfaction-after-age-65/), [<sup>17</sup>](https://www.niussp.org/health-and-mortality/racial-disparities-in-disability-and-in-long-and-happy-living-in-america/)
 
-To extrat actionable insights, I've applied a wide range of **statistical modeling** techniques, including:
+To extract actionable insights, I've applied a wide range of **statistical modeling** techniques, including:
 - linear regression
 - generalized linear models (logit, logistic, hierarchical, Poisson and negative binomial)
 - survival/hazard models
 
 My deep expertise in **quantitative methods** is also demonstrated by my methodological summaries[<sup>18</sup>](extensive) and teaching experience.
 
-Ultimately, the 🛠 tools are only as 💪 powerful as the 🧑‍💻 person using them. I bring rich experience in analytical thinking, research design, and data storytelling that has equiped me to solve complex problems and deliver actionable insights, no matter the tools or setting.
+Ultimately, the 🛠 tools are only as 💪 powerful as the 🧑‍💻 person using them. I bring rich experience in analytical thinking, research design, and data storytelling that has equipped me to solve complex problems and deliver actionable insights, no matter the tools or setting.
 
 ---
 
