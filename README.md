@@ -76,7 +76,7 @@ To extract actionable insights, I've applied a wide range of **statistical model
 - generalized linear models (logit, logistic, hierarchical, Poisson and negative binomial)
 - survival/hazard models
 
-My deep expertise in **quantitative methods** is also demonstrated by my methodological summaries[<sup>18</sup>](extensive) and teaching experience.
+My deep expertise in **quantitative methods** is also demonstrated by my methodological summaries[<sup>18</sup>](extensive) and teaching experience. Check out my teaching materials at the [undergraduate level](https://github.com/TonyBardo/teaching-materials/blob/main/undergrad-quant/README.md) and [graduate level](https://github.com/TonyBardo/teaching-materials/blob/main/graduate-quant/README.md).
 
 Ultimately, the 🛠 tools are only as 💪 powerful as the 🧑‍💻 person using them. I bring rich experience in analytical thinking, research design, and data storytelling that has equipped me to solve complex problems and deliver actionable insights, no matter the tools or setting.
 
