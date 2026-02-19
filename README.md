@@ -89,3 +89,7 @@ My expertise in communicating quantitative methods is further demonstrated in my
 ### 📬 Connect
 
 - 📧 Email: bardoar@gmail.com
+- <a href="https://www.linkedin.com/in/tony-bardo-67968832a/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="15"/>
+</a>
+
