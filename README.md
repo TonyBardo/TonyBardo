@@ -62,22 +62,28 @@ Primary Tools 🛠
 
 My work began with large-scale survey operations, where I built end-to-end analytics workflows — from raw data collection and transformation to modeling and stakeholder reporting. Early experience managing messy, human-reported data shaped my approach to data integrity, reproducibility, and scalable preprocessing pipelines.[<sup>1</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/2_Maume_Gender_Sleep_G%26S_2010.pdf)<sup>,</sup> [<sup>2</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/1_Maume_Gender_Sleep_ASR_2009.pdf) 
 
-Over time, I partnered with government and healthcare stakeholders to evaluate long-term services and supports programs using administrative claims and survey data.[<sup>5</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/R5_Applebaum_TransitionsL_2011.pdf)<sup>,</sup> [<sup>6</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/R6_Mehdizadeh_OHCounty_2014.pdf)<sup>,</sup> [<sup>7</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/R2_Mehdizadeh_PACE_tri_2009.pdf)
+Over time, I partnered with government and healthcare stakeholders to evaluate long-term services and supports programs using administrative claims and survey data.[<sup>5</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/R5_Applebaum_TransitionsL_2011.pdf)<sup>,</sup> [<sup>6</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/R6_Mehdizadeh_OHCounty_2014.pdf)<sup>,</sup> [<sup>7</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/R2_Mehdizadeh_PACE_tri_2009.pdf) These projects required constructing structured analytic datasets from complex records, implementing robust missing data strategies, and delivering decision-oriented insights to policy and operational leaders. [<sup>3</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/5_Applebaum_CareMngt_JGCM_2014.pdf)<sup>,</sup> [<sup>8</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/6_Bardo_Transitions_JAG_2014.pdf)<sup>,</sup> [<sup>9</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/C1b2_Applebaum_Global_2019.pdf).
 
-[<sup>3</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/5_Applebaum_CareMngt_JGCM_2014.pdf) delivering **forward-facing reports** that informed program strategy, operations, and policy.[<sup>4</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/R4_Applebaum_TransitionsS_2011.pdf)<sup>,</sup>  These collaborations deepened my ability to design and manage **scalable data workflows** and to communicate clearly with diverse technical and non-technical audiences across sectors.[<sup>8</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/6_Bardo_Transitions_JAG_2014.pdf)<sup>,</sup> [<sup>9</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/C1b2_Applebaum_Global_2019.pdf).
+I have deep expertise in:
 
-Over time, I developed a specialization in quantifiable quality-of-life metrics, which are equivalent to **key performance indicators (KPIs)**.[<sup>10</sup>]( https://link.springer.com/journal/11205) Along these lines, I focused on how to **measure and track outcomes** that matter most to people, organizations and systems.[<sup>11</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/7_Bardo_DomSat_SIR_2014.pdf)<sup>,</sup> [<sup>12</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/10_Bardo_Happy_APC_SPPS_2017.pdf)<sup>,</sup> [<sup>13</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/11_Bardo_HappyDomSat_ALCR_2017.pdf) My contributions led to invitations to help shape international frameworks used by national statistical offices to track development goals. [<sup>14</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/New-Frontiers-in-Subjective-Well-being-Measurement-4-March-2024-Agenda.pdf)
+- Data wrangling and preprocessing (extraction, transformation, recoding, deduplication, imputation)
+- Longitudinal and cross-sectional modeling
+- Generalized linear models (logistic, Poisson, negative binomial)
+- Survival analysis
+- Measurement strategy for behavioral and experience-based outcomes
 
-My public-facing work has been featured in major media outlets, where I translated research findings for general audiences.[<sup>15</sup>](https://kffhealthnews.org/news/now-more-of-us-can-count-on-more-time-dodging-the-dementia-bullet/), [<sup>16</sup>](https://www.prb.org/resources/happily-ever-after-research-offers-clues-on-what-shapes-happiness-and-life-satisfaction-after-age-65/), [<sup>17</sup>](https://www.niussp.org/health-and-mortality/racial-disparities-in-disability-and-in-long-and-happy-living-in-america/)
+A central focus of my work has been translating complex, subjective constructs (e.g., well-being, engagement, satisfaction) into rigorous quantitative frameworks that function as organizational and system-level performance metrics.[<sup>11</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/7_Bardo_DomSat_SIR_2014.pdf)<sup>,</sup> [<sup>12</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/10_Bardo_Happy_APC_SPPS_2017.pdf)<sup>,</sup> [<sup>13</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/11_Bardo_HappyDomSat_ALCR_2017.pdf) 
 
-To extract actionable insights, I've applied a wide range of **statistical modeling** techniques, including:
-- linear regression
-- generalized linear models (logit, logistic, hierarchical, Poisson and negative binomial)
-- survival/hazard models
+Across projects, I emphasize:
 
-My deep expertise in **quantitative methods** is also demonstrated by my methodological summaries[<sup>18</sup>](extensive) and teaching experience. 
+- Rigorous study design
+- Scalable analytic workflows
+- Clear communication of uncertainty and inference
+- Translating statistical output into actionable insight
 
-- Check out my [teaching materials here](https://github.com/TonyBardo/teaching-materials/blob/main/README.md).
+Selected applied research and modeling examples are linked throughout this repository
+
+
 
 >Ultimately, the 🛠 tools are only as 💪 powerful as the 🧑‍💻 person using them. I bring rich experience in analytical thinking, research design, and data storytelling that has equipped me to solve complex problems and deliver actionable insights, no matter the tools or setting.
 
