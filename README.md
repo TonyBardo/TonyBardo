@@ -23,7 +23,7 @@
 ### 🔬 About Me
 I am a data scientist specializing in the measurement and modeling of human experience, behavior, and organizational systems.
 
-With over 15 years of experience in quantitative research and applied analytics, I design rigorous modeling strategies to translate complex, real-world data into actionable insights. My work has focused on healthcare analytics, organizational systems, and large-scale survey and administrative datasets.
+With over 15 years of experience in quantitative research and applied analytics, I design rigorous modeling strategies to translate complex, real-world data into actionable insights. My work has focused on large-scale survey and administrative datasets across organizational systems.
 
 🔍 I’m especially passionate about:
 - Wrangling messy real-world data to uncover patterns and drive decisions
@@ -82,6 +82,8 @@ Across projects, I emphasize:
 - Translating statistical output into actionable insight
 
 Selected applied research and modeling examples are linked throughout this repository
+
+My expertise in communicating quantitative methods is further demonstrated in my teaching materials, which can be found [here](https://github.com/TonyBardo/teaching-materials).
 
 ---
 ### 📬 Connect
