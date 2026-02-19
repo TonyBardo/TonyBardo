@@ -21,15 +21,16 @@
 ---
 
 ### 🔬 About Me
+I am a data scientist specializing in the measurement and modeling of human experience, behavior, and organizational systems.
 
-After more than a decade in academia ([CV](https://github.com/TonyBardo/TonyBardo/blob/main/academic_cv.pdf)), I'm transitioning to industry with a focus on turning complex data into actionable real-world insights. My background blends a strong foundation in data storytelling with deep expertise in statistical modeling, making insights technically sound and widely accessible.
+With over 15 years of experience in quantitative research and applied analytics, I design rigorous modeling strategies to translate complex, real-world data into actionable insights. My work has focused on healthcare analytics, organizational systems, and large-scale survey and administrative datasets.
 
 🔍 I’m especially passionate about:
 - Wrangling messy real-world data to uncover patterns and drive decisions
 - Designing rigorous analyses that yield practical value
 - Bridging technical precision with clear compelling communication
 
-I'm currently building an open portfolio to showcase how my expertise translates into problem solving using industry-standard tools 🛠
+Primary Tools 🛠
 
 <table>
   <tr>
