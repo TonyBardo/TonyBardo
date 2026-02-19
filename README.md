@@ -62,7 +62,7 @@ Primary Tools 🛠
 
 My work began with large-scale survey operations, where I built end-to-end analytics workflows — from raw data collection and transformation to modeling and stakeholder reporting. Early experience managing messy, human-reported data shaped my approach to data integrity, reproducibility, and scalable preprocessing pipelines.[<sup>1</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/2_Maume_Gender_Sleep_G%26S_2010.pdf)<sup>,</sup> [<sup>2</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/1_Maume_Gender_Sleep_ASR_2009.pdf) 
 
-Over time, I partnered with government and healthcare stakeholders to evaluate long-term services and supports programs using administrative claims and survey data.[<sup>5</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/R5_Applebaum_TransitionsL_2011.pdf)<sup>,</sup> [<sup>6</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/R6_Mehdizadeh_OHCounty_2014.pdf)<sup>,</sup> [<sup>7</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/R2_Mehdizadeh_PACE_tri_2009.pdf) These projects required constructing structured analytic datasets from complex records, implementing robust missing data strategies, and delivering decision-oriented insights to policy and operational leaders. [<sup>3</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/5_Applebaum_CareMngt_JGCM_2014.pdf)<sup>,</sup> [<sup>8</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/6_Bardo_Transitions_JAG_2014.pdf)<sup>,</sup> [<sup>9</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/C1b2_Applebaum_Global_2019.pdf).
+Over time, I partnered with government and healthcare stakeholders to evaluate long-term services and supports programs using administrative claims and survey data.[<sup>3</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/R5_Applebaum_TransitionsL_2011.pdf)<sup>,</sup> [<sup>4</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/R6_Mehdizadeh_OHCounty_2014.pdf)<sup>,</sup> [<sup>5</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/R2_Mehdizadeh_PACE_tri_2009.pdf) These projects required constructing structured analytic datasets from complex records, implementing robust missing data strategies, and delivering decision-oriented insights to policy and operational leaders. [<sup>6</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/5_Applebaum_CareMngt_JGCM_2014.pdf)<sup>,</sup> [<sup>7</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/6_Bardo_Transitions_JAG_2014.pdf)<sup>,</sup> [<sup>8</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/C1b2_Applebaum_Global_2019.pdf).
 
 I have deep expertise in:
 
@@ -72,7 +72,7 @@ I have deep expertise in:
 - Survival analysis
 - Measurement strategy for behavioral and experience-based outcomes
 
-A central focus of my work has been translating complex, subjective constructs (e.g., well-being, engagement, satisfaction) into rigorous quantitative frameworks that function as organizational and system-level performance metrics.[<sup>11</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/7_Bardo_DomSat_SIR_2014.pdf)<sup>,</sup> [<sup>12</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/10_Bardo_Happy_APC_SPPS_2017.pdf)<sup>,</sup> [<sup>13</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/11_Bardo_HappyDomSat_ALCR_2017.pdf) 
+A central focus of my work has been translating complex, subjective constructs (e.g., well-being, engagement, satisfaction) into rigorous quantitative frameworks that function as organizational and system-level performance metrics.[<sup>9</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/7_Bardo_DomSat_SIR_2014.pdf)<sup>,</sup> [<sup>10</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/10_Bardo_Happy_APC_SPPS_2017.pdf)<sup>,</sup> [<sup>11</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/11_Bardo_HappyDomSat_ALCR_2017.pdf) 
 
 Across projects, I emphasize:
 
@@ -82,23 +82,6 @@ Across projects, I emphasize:
 - Translating statistical output into actionable insight
 
 Selected applied research and modeling examples are linked throughout this repository
-
-
-
->Ultimately, the 🛠 tools are only as 💪 powerful as the 🧑‍💻 person using them. I bring rich experience in analytical thinking, research design, and data storytelling that has equipped me to solve complex problems and deliver actionable insights, no matter the tools or setting.
-
----
-
-### 📈 Projects
-
-I’ve led projects that integrated **disparate datasets** to generate holistic, actionable insights. For instance, I designed and led an experimental approach to improve performance measurement for group-based interventions, combining survey data, social network analysis (SNA), and qualitative interviews and focus groups in a full-cycle evaluation[<sup>#</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/Manuscript_JHSE_v2.pdf).
-
-
-🚀 **[US Health Profile (BRFSS 2021–2023)](https://github.com/tonybardo/brfss-etl)**
-- R + Tableau project visualizing chronic conditions across SES and geography
-- Includes ETL pipeline, harmonized layout files, and interactive dashboards
-
-🧪 *(More coming soon)*
 
 ---
 ### 📬 Connect
