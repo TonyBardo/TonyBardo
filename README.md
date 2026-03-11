@@ -21,9 +21,7 @@
 ---
 
 ### 🔬 About Me
-I am a data scientist specializing in the measurement and modeling of human experience, behavior, and organizational systems.
-
-With over 15 years of experience in quantitative research and applied analytics, I design rigorous modeling strategies to translate complex, real-world data into actionable insights. My work has focused on large-scale survey and administrative datasets across organizational systems.
+With over 15 years of experience in quantitative and qualitative research, I design rigorous strategies to translate complex real-world data into actionable insights. My quantiative work has focused on large-scale survey and administrative datasets across organizational systems.
 
 🔍 I’m especially passionate about:
 - Wrangling messy real-world data to uncover patterns and drive decisions
