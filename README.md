@@ -5,6 +5,10 @@
 <h1 align="center">Tony Bardo</h1>
 
 <p align="center">
+  - <a href="https://www.linkedin.com/in/tony-bardo-67968832a/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="15"/>
+</a>
+&nbsp;&nbsp;
   <a href="https://scholar.google.com/citations?user=JzoBYdcAAAAJ&hl=en" target="_blank">
     <img src="https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=googlescholar" />
   </a>
