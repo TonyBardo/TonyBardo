@@ -6,7 +6,7 @@
 
 <p align="center">
   - <a href="https://www.linkedin.com/in/tony-bardo-67968832a/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/>
 </a>
 &nbsp;&nbsp;
   <a href="https://scholar.google.com/citations?user=JzoBYdcAAAAJ&hl=en" target="_blank">
