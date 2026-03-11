@@ -56,7 +56,7 @@ Primary Tools 🛠
 
 ---
 
-### 📈 My Data Analytics Journey
+### 📈 My Quantitative Analytics Journey
 
 My work began with large-scale survey operations, where I built end-to-end analytics workflows from raw data collection and transformation to modeling and stakeholder reporting. Early experience managing messy, human-reported data shaped my approach to data integrity, reproducibility, and scalable preprocessing pipelines.[<sup>1</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/2_Maume_Gender_Sleep_G%26S_2010.pdf)<sup>,</sup> [<sup>2</sup>](https://github.com/TonyBardo/TonyBardo/blob/main/papers/1_Maume_Gender_Sleep_ASR_2009.pdf) 
 
